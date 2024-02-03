@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alyona Rout</h1>
+<h1 align="center">Hi 👋, I'm Alyonaaaa Rout</h1>
 <h3 align="center">A passionate AI & ML enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alyonarout&label=Profile%20views&color=0e75b6&style=flat" alt="alyonarout" /> </p>
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learning **Introduction to ML**
 
-- 🤝 I’m looking for help with **Open Source Contributions**
+- 🤝 I’m looking for help with some thingsssss **Open Source Contributions**
 
 - 💬 Ask me about **C,C++,Python**
 
