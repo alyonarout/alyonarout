@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me  
 
-- 🎓 Pursuing **Bachelors Computer Science & Engineering **  
+- 🎓 Pursuing **Bachelors Computer Science & Engineering**  
 - 🌱 Currently learning **Explainable AI (XAI), Multimodality, and Retrieval-Augmented Generation (RAG)**  
 - 🧠 Focus Areas: **AI in Healthcare, Computer Vision, NLP**  
 - ⚡ Fun Fact: *AI won’t replace humans, but humans with AI will replace those without it*  
