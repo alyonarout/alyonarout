@@ -1,10 +1,16 @@
 <!-- Typing Animation Intro -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=26&duration=2200&pause=1000&color=A020F0&center=true&vCenter=true&repeat=true&width=1000&height=95&lines=hi+i'm+alyona+rout+🌌;healthcare+ai+⚕️;explainable+ai+%7C+xai+🧩;computer+vision+👁️;building+trustworthy+clinical+ai+🤝"
+    src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=26&duration=2500&pause=1000&color=A020F0&center=true&vCenter=true&repeat=true&width=1000&height=95
+    &lines=hi+i'm+alyona+rout+🌌
+    ;healthcare+ai+⚕️
+    ;explainable+ai+%7C+xai+🧩
+    ;computer+vision+👁️
+    ;building+trustworthy+clinical+ai+🤝"
     alt="Typing Animation"
   />
 </p>
+
 
 
 ## 👩‍💻 About Me  
