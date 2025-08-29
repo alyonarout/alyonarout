@@ -6,13 +6,6 @@
   />
 </p>
 
-
-
-<h1 align="center">Hi 👋, I'm Alyona Rout</h1>
-<h3 align="center">An undergraduate researcher.
-
----
-
 ## 👩‍💻 About Me  
 
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering @ KIIT University (2022–2026)**  
