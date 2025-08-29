@@ -1,13 +1,8 @@
 <!-- Typing Animation Intro -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=26&duration=2500&pause=1000&color=A020F0&center=true&vCenter=true&repeat=true&width=1000&height=95
-    &lines=hi+i'm+alyona+rout+🌌
-    ;healthcare+ai+⚕️
-    ;explainable+ai+%7C+xai+🧩
-    ;computer+vision+👁️
-    ;building+trustworthy+clinical+ai+🤝"
-    alt="Typing Animation"
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=24&pause=1000&color=A020F0&center=true&vCenter=true&width=1000&lines=hi+i'm+alyona+rout+🌌;b.tech+cse+@+kiit+university+🎓;healthcare+ai+%7C+xai+%7C+vision+⚕️;passionate+about+ml%2C+nlp+and+cv+🧠;building+trustworthy+clinical+ai+🤝" 
+    alt="Typing Animation" 
   />
 </p>
 
