@@ -1,10 +1,11 @@
-<!-- Typing Animation Intro (Clean) -->
+<!-- Typing Animation Intro -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=850&color=00C8FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=90&lines=hi+there%2C+i'm+alyona+rout+%F0%9F%91%8B;cs+%26+ai+@+kiit+%7C+healthcare+ai;nlp+%B7+vision+%B7+rag+%B7+xai"
-    alt="typing animation"
+    src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=26&duration=2200&pause=800&color=A020F0&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=95&lines=hi+i'm+alyona+rout+%F0%9F%8C%8C;healthcare+ai+%7C+xai+%7C+vision;building+trustworthy+clinical+ai"
+    alt="Typing Animation"
   />
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Alyona Rout</h1>
