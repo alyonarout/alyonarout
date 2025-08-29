@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Alyona Rout</h1>
-<h3 align="center">An aspiring AI & CSE student from India 🇮🇳</h3>
+<h3 align="center">An undergraduate researcher.
 
 ---
 
