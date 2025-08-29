@@ -1,42 +1,97 @@
+![Header](https://raw.githubusercontent.com/alyonarout/alyonarout/main/assets/github-banner.png)
+
 <h1 align="center">Hi 👋, I'm Alyona Rout</h1>
-<h3 align="center">A passionate AI & ML enthusiast</h3>
+<h3 align="center">An aspiring AI & CSE student from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alyonarout&label=Profile%20views&color=0e75b6&style=flat" alt="alyonarout" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alyonarout" alt="alyonarout" /></a> </p>
+## 👩‍💻 About Me  
 
-- 🔭 I’m currently learning **Introduction to ML**
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering @ KIIT University (2022–2026)**  
+- 🌱 Currently learning **Explainable AI (XAI), Multimodality, and Retrieval-Augmented Generation (RAG)**  
+- 🧠 Focus Areas: **AI in Healthcare, Computer Vision, NLP**  
+- ⚡ Fun Fact: *AI won’t replace humans, but humans with AI will replace those without it*  
 
-- 🤝 I’m looking for help with some thingsssss **Open Source Contributions**
+---
 
-- 💬 Ask me about **C,C++,Python**
+## 📫 Reach Me At  
+- 📧 **alyonarout19@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alyonarout/)  
+- 🐙 [GitHub](https://github.com/alyonarout)  
 
-- 📫 How to reach me **alyonarout19@gmail.com**
+## 🏥 Languages & Tools (Healthcare AI)  
 
-- ⚡ Fun fact **The first computer ever made was called ENIAC, weighed over 30 tons.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alyona rout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alyona rout" height="30" width="40" /></a>
-<a href="https://fb.com/alyona rout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alyona rout" height="30" width="40" /></a>
+  <!-- Core Programming -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+
+  <!-- AI/ML & Deep Learning -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> 
+  <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="huggingface" width="40" height="40"/> 
+  <img src="https://avatars.githubusercontent.com/u/656794?s=200&v=4" alt="spacy" width="40" height="40"/> 
+  <img src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" alt="nltk" width="40" height="40"/> 
+
+  <!-- Medical Imaging -->
+  <img src="https://avatars.githubusercontent.com/u/17165623?s=200&v=4" alt="simpleitk" width="40" height="40"/> 
+  <img src="https://avatars.githubusercontent.com/u/31963106?s=200&v=4" alt="monai" width="40" height="40"/> 
+  <img src="https://avatars.githubusercontent.com/u/33914219?s=200&v=4" alt="nibabel" width="40" height="40"/> 
+  <img src="https://avatars.githubusercontent.com/u/1600381?s=200&v=4" alt="dicom" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> 
+
+  <!-- Healthcare NLP -->
+  <img src="https://avatars.githubusercontent.com/u/656794?s=200&v=4" alt="spacy" width="40" height="40"/> 
+  <img src="https://avatars.githubusercontent.com/u/64069838?s=200&v=4" alt="openai" width="40" height="40"/> 
+  <img src="https://avatars.githubusercontent.com/u/19872173?s=200&v=4" alt="allenai" width="40" height="40"/> 
+  <img src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" alt="nltk" width="40" height="40"/> 
+
+  <!-- Databases (Healthcare & Imaging) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> 
+
+  <!-- Cloud & Deployment -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> 
+
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alyonarout&show_icons=true&locale=en&layout=compact" alt="alyonarout" /></p> 
+## 🌟 Featured Projects  
 
-<!--
-**alyonarout/alyonarout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤖 [Intelligent Education  Assistant](https://github.com/alyonarout/GPT-Versions) – Using RAG & NLP for student queries
+- 📊 [Medical Image Analysis](https://github.com/alyonarout/ScanWise) – Computer Vision on X-rays & MRIs  
+- 🧑‍💻 [Streamlit Dashboard](https://github.com/alyonarout/health-analytics) – Real-time health data visualization  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alyonarout&show_icons=true&theme=radical" alt="Alyona's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alyonarout&theme=radical" alt="GitHub Streaks"/>
+</p>
+
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=alyonarout&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+
+
+## 🐍 Contribution Graph  
+![snake gif](https://github.com/alyonarout/alyonarout/blob/output/github-contribution-grid-snake.svg)
