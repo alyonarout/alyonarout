@@ -70,8 +70,7 @@
 
 
 ## 🌟 Featured Projects  
-
-- 🤖 [Intelligent Education  Assistant](https://github.com/alyonarout/GPT-Versions) – Using RAG & NLP for student queries
+- 📊 [XAI -Visualiser](https://github.com/alyonarout/XAI-Visualizer) – BERT Visualiser 
 - 📊 [Medical Image Analysis](https://github.com/alyonarout/ScanWise) – Computer Vision on X-rays & MRIs  
 - 🧑‍💻 [Streamlit Dashboard](https://github.com/alyonarout/health-analytics) – Real-time health data visualization  
 
