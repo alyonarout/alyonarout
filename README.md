@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/alyonarout/alyonarout/main/assets/github-banner.png)
+
 
 <h1 align="center">Hi 👋, I'm Alyona Rout</h1>
 <h3 align="center">An aspiring AI & CSE student from India 🇮🇳</h3>
@@ -83,15 +83,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alyonarout&show_icons=true&theme=radical" alt="Alyona's GitHub stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alyonarout&theme=radical" alt="GitHub Streaks"/>
-</p>
 
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=alyonarout&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
-
-
-## 🐍 Contribution Graph  
-![snake gif](https://github.com/alyonarout/alyonarout/blob/output/github-contribution-grid-snake.svg)
