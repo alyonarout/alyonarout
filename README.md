@@ -1,7 +1,7 @@
 <!-- Typing Animation Intro -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=26&duration=2200&pause=800&color=A020F0&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=95&lines=hi+i'm+alyona+rout+%F0%9F%8C%8C;healthcare+ai+%7C+xai+%7C+vision;building+trustworthy+clinical+ai;empowering+healthcare+with+ai"
+    src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=26&duration=2200&pause=800&color=A020F0&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=95&lines=hi+i'm+alyona+rout+%F0%9F%8C%8C;healthcare+ai+%7C+xai+%7C+vision"
     alt="Typing Animation"
   />
 </p>
